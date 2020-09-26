@@ -3,3 +3,6 @@ const addUser = () => {
     console.log("dp nguyen lam xong task add");
 
 }
+const deleteUser = () => {
+    console.log("Xoa User");
+}
